@@ -2,11 +2,11 @@
 
 # Introduction to Statistical Mechanics in Python 3
 Introduction to Statistical Mechanics in python 3.x, using jupyter notebooks.
-This repository is part of the University of Milano course [Introduzione alla Fisica Statistica](https://myariel.unimi.it/course/view.php?id=985).
+This repository is part of the University of Milano course [Introduzione alla Fisica Statistica](https://myariel.unimi.it/course/view.php?id=3513).
 
 We will go through the notebooks of each seassion together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together. You are expected then to solve the rest of exercises on your own. 
 
-Please send your solutions **no later than the indicated date** using the [labonline platform](https://myariel.unimi.it/course/view.php?id=985). 
+Please send your solutions **no later than the indicated date** using the [labonline platform](https://myariel.unimi.it/course/view.php?id=3513). 
 
 ## Installing jupyter on your computer
 To follow these lectures, you need a modern installation of `python`, together with `jupyter`, `numpy`, `matplotlib` and some other standard python libraries. The simplest way to install all these packages without interfeering with your current python installation is the [Anaconda distribution](https://www.anaconda.com/download/). Choose **python 3.x** and your OS, download, install, and you should be good to go. 
