@@ -6,13 +6,13 @@ This repository is part of the University of Milano course [Introduzione alla Fi
 
 We will go through the notebooks of each session together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together. You are expected then to solve the rest of exercises on your own. 
 
-Please send your solutions **no later than the indicated date** using the [labonline platform](https://myariel.unimi.it/course/view.php?id=3513). The completed notebook must be submitted in the .ipynb format; the cells must be already executed and at least the relevant outputs - especially the figures - must be already printed.
+Please send your solutions **no later than the indicated date** using the [labonline platform](https://myariel.unimi.it/course/view.php?id=3513). The completed notebooks must be submitted in the .ipynb format; **the cells must be already executed** and at least the relevant outputs - especially the figures - must be already printed.
 
 ## Installing jupyter on your computer
 To follow these lectures, you need a modern installation of `python`, together with `jupyter`, `numpy`, `matplotlib` and some other standard python libraries. The simplest way to install all these packages without interfeering with your current python installation is the [Anaconda distribution](https://www.anaconda.com/download/). Choose **python 3.x** and your OS, download, install, and you should be good to go. 
 
 ## Using an online environment
-Alternatively, if you cannot install `jupyter` on your computer, you can use the `mybinder` online environment, which is basically an online version of the repository. Notice that the code will not run on your computer, and that you will loose your work if you close the browser window. To launch the mybinder page for the course, click here!
+Alternatively, if you cannot install `jupyter` on your computer, you can use the `mybinder` online environment, which is basically an online version of the repository. Notice that the code will not run on your computer, and that you will lose your work if you close the browser window. To launch the mybinder page for the course, click here!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontclos/stat-mech-python-course/master?urlpath=lab)
 
