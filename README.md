@@ -14,7 +14,7 @@ To follow these lectures, you need a modern installation of `python`, together w
 ## Using an online environment
 Alternatively, if you cannot install `jupyter` on your computer, you can use the `mybinder` online environment, which is basically an online version of the repository. Notice that the code will not run on your computer, and that you will lose your work if you close the browser window. To launch the mybinder page for the course, click here!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontclos/stat-mech-python-course/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SZapperi/stat-mech-python-course/HEAD)
 
 After completing a notebook, **remember to download it** to your local computer!
 
