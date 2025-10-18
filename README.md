@@ -6,7 +6,7 @@ This repository is part of the University of Milano course [Introduzione alla Fi
 
 We will go through the notebooks of each session together. Each notebook explores a different topic and proposes some **exercises for you to do**. There will be some time for you to try the exercises, and we will solve some of them together. You are expected then to solve the rest of exercises on your own. 
 
-Please send your solutions **no later than the indicated date** using the [labonline platform](https://myariel.unimi.it/course/view.php?id=3513). The completed notebooks must be submitted in the .ipynb format; **the cells must be already executed** and at least the relevant outputs - especially the figures - must be already printed.
+Please send your solutions **no later than the indicated date** using the [myAriel platform](https://myariel.unimi.it/). The completed notebooks must be submitted in the .ipynb format; **the cells must be already executed** and at least the relevant outputs - especially the figures - must be already printed.
 
 ## Installing jupyter on your computer
 To follow these lectures, you need a modern installation of `python`, together with `jupyter`, `numpy`, `matplotlib` and some other standard python libraries. The simplest way to install all these packages without interfeering with your current python installation is the [Anaconda distribution](https://www.anaconda.com/download/). Choose **python 3.x** and your OS, download, install, and you should be good to go. 
@@ -40,6 +40,9 @@ $ cd stat-mech-python-course
 $ jupyter lab
 ```
 A browser window/tab pointing to `localhost:8888` will open automatically. Open the `notebooks` folder, then open the first notebook by double-clicking `1-Generating-Random-Numbers.ipynb`. You are ready to go!
+
+## Guide (in italian)
+check the pdf file enclosed.
 
 ## Searching for help online
 Being able to **re-use someone else's code** is as important as being able to write your own. You are *not* supposed to figure out everything by yourself, so googling *how to X in python* is just fine. In addition, some useful resources are:
